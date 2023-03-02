@@ -34,5 +34,38 @@ public class Main {
         int ten = 10;
         int two = 2;
         int addition = ten + two;
+
+        // The Math Class
+        System.out.println(Math.abs(-10));
+        Math.max(a:3.6, 10.11);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
