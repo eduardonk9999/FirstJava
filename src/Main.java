@@ -30,5 +30,9 @@ public class Main {
         LocalDate localDate = LocalDate.now();
         System.out.println(localDate);
 
+        // Arithmetic Operations
+        int ten = 10;
+        int two = 2;
+        int addition = ten + two;
     }
 }
